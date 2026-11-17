@@ -2,7 +2,7 @@
 
 ### Tech Support | Cybersecurity | Security Operations
 
-I'm an Tech Support and Cybersecurity professional with experience in technical troubleshooting, incident management, Windows environments, user access management, and information security.
+I'm a Tech Support and Cybersecurity professional with experience in technical troubleshooting, incident management, Windows environments, user access management, and information security.
 
 I recently completed my Postgraduate Certificate in Cybersecurity and Artificial Intelligence at Humber College, Ontario, Canada.
 
