@@ -51,12 +51,19 @@ I enjoy building practical technical labs, investigating security events, troubl
 ## 🔐 Featured Projects
 
 ### 1. Adversarial Robustness of an LLM-Based Document Parser
+
+**Project Type:** Academic Group Capstone  
 **Technologies:** Python, Ollama, Llama 3.1, PyMuPDF, FastAPI, Docker
 
-- Developed a security-focused PDF processing pipeline.
+- Developed a security-focused PDF processing pipeline as part of a group project.
 - Evaluated prompt injection, hidden text, homoglyph substitution, and document manipulation attacks.
-- Designed layered security controls, including PDF sanitization, prompt isolation, and output validation.
+- Explored layered security controls, including PDF sanitization, prompt isolation, and output validation.
 - Evaluated adversarial detection and document extraction performance.
+- **My Contribution:** Resume and contract document preparation, along with overall project coordination and management.
+
+[View Original Group Project on GitHub](https://github.com/urvishavora/Adversarial-Robustness-of-LLM-Based-Document-Parser)
+
+*Original group repository maintained by Urvisha Vora and team.*
 
 ### 2. Splunk SIEM – Windows Log Monitoring
 
