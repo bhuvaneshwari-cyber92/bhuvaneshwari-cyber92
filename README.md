@@ -58,13 +58,11 @@ I enjoy building practical technical labs, investigating security events, troubl
 - Designed layered security controls, including PDF sanitization, prompt isolation, and output validation.
 - Evaluated adversarial detection and document extraction performance.
 
-### 2. Firewall Configuration & Splunk SIEM Lab
-**Technologies:** Splunk Enterprise, Windows, VirtualBox
+### 2. Splunk SIEM – Windows Log Monitoring
 
-- Configured Windows virtual machines and firewall rules.
-- Collected Windows event logs using Splunk Universal Forwarder.
-- Investigated system events and monitored unusual activities.
-- Developed security monitoring dashboards.
+[View Project on GitHub](https://github.com/bhuvaneshwari-cyber92/Splunk-SIEM-Windows-Log-Monitoring)
+
+Built a two-VM Windows 11 SIEM lab using Splunk Enterprise and Universal Forwarder to collect, forward, and investigate Windows Security events.
 
 ### 3. Active Directory Identity & Access Management Lab
 **Technologies:** Windows Server 2022, Active Directory, PowerShell, Group Policy
