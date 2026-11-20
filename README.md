@@ -87,7 +87,14 @@ Built a two-VM Windows 11 SIEM lab using Splunk Enterprise and Universal Forward
 - Mapped security risks to NIST controls.
 - Developed risk mitigation recommendations.
 
----
+### 5. Enterprise Network Security Monitoring & Incident Response Lab
+**Technologies:** Wazuh SIEM, Suricata IDS/IPS, OPNsense, Windows Server, Linux, Wireshark
+
+- Built a virtual enterprise network with segmented networks and firewall configurations.
+- Configured SIEM monitoring to collect and analyze Windows and Linux security logs.
+- Investigated security events and suspicious network activity using Wazuh and Wireshark.
+- Implemented access controls, network security policies and intrusion detection.
+- Documented security incidents and recommended remediation measures.
 
 ## 🎓 Education
 
